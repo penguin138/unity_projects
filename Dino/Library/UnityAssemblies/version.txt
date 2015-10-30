@@ -1,0 +1,5 @@
+5.1.0f3:2.0.0.0
+Android
+/opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+/opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
